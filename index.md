@@ -1,3 +1,4 @@
+```sh
 cd repo
 python prune_check.py
 brew install git-filter-repo
